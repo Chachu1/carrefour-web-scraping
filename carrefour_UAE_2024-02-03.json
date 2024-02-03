@@ -1,0 +1,672 @@
+[
+  {
+    "product_id": "1792249",
+    "product_ean": "8806090529740",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Large Appliances",
+    "Categorie_L3": "Washers & Dryers",
+    "name": "Samsung Front Load Washing Machine WW70T3020BS/GU 7Kg",
+    "price": 1499,
+    "discount_price": 987
+  },
+  {
+    "product_id": "1943726",
+    "product_ean": "8806094920932",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Large Appliances",
+    "Categorie_L3": "Fridges",
+    "name": "Samsung 345L Net Capacity Top Mount Freezer Refrigerator Refined Inox RT45CG5404S9",
+    "price": 1999,
+    "discount_price": 1389.35
+  },
+  {
+    "product_id": "1810064",
+    "product_ean": "6944271660270",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Large Appliances",
+    "Categorie_L3": "Cookers",
+    "name": "Toshiba 4 Burner Gas Cooking Range Stainless Steel Top And Front + Grey Silver Side TBA-24BMG4G089KS 60x60cm",
+    "price": 1599,
+    "discount_price": 1008.44
+  },
+  {
+    "product_id": "1939451",
+    "product_ean": "6974805075188",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Large Appliances",
+    "Categorie_L3": "Dish Washer",
+    "name": "Hisense Freestanding Dishwasher With Standing 15 Place Settings HS623E90X Silver",
+    "price": 1529,
+    "discount_price": 917.4
+  },
+  {
+    "product_id": "1818398",
+    "product_ean": "6291086705420",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Large Appliances",
+    "Categorie_L3": "Freezers",
+    "name": "Hoover 767L Upright Freezer Silver HSFR-H767-S",
+    "price": 3699,
+    "discount_price": 2799
+  },
+  {
+    "product_id": "1721591",
+    "product_ean": "4242003865910",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Large Appliances",
+    "Categorie_L3": "Built-In Hob",
+    "name": "Siemens Built-in Hob EC9B5QO90M Silver/Black 60cm",
+    "price": 3599,
+    "discount_price": 2575.44
+  },
+  {
+    "product_id": "8050147570401",
+    "product_ean": "8050147570401",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Large Appliances",
+    "Categorie_L3": "Built-In Oven",
+    "name": "Ariston Built-In, 101L, Electric Oven, MS5744IXA, Made In Turkey, Inox",
+    "price": 4099,
+    "discount_price": 2414.24
+  },
+  {
+    "product_id": "8016361838437",
+    "product_ean": "8016361838437",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Large Appliances",
+    "Categorie_L3": "Built-In Dish Washer",
+    "name": "Candy Built In Under Counter Refrigerator 117 Litres CRU164E",
+    "price": 1999,
+    "discount_price": 1421.8
+  },
+  {
+    "product_id": "1586846",
+    "product_ean": "8421152114353",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Large Appliances",
+    "Categorie_L3": "Built-In Fridge",
+    "name": "Teka Built-In Fridge TFI3 130 D",
+    "price": 3149,
+    "discount_price": 3149
+  },
+  {
+    "product_id": "1710436",
+    "product_ean": "8050147552285",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Large Appliances",
+    "Categorie_L3": "Built-In Hood",
+    "name": "Indesit Built-in Hood IHPC 9.4 LMX Silver 90cm",
+    "price": 1699,
+    "discount_price": 1199
+  },
+  {
+    "product_id": "8050147593752",
+    "product_ean": "8050147593752",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Large Appliances",
+    "Categorie_L3": "Built-In Microwave",
+    "name": "Ariston Built-In, 25L, Combi Microwave Oven MF25GUKIXA, Made In China, Inox",
+    "price": 1299,
+    "discount_price": 734.89
+  },
+  {
+    "product_id": "2074901",
+    "product_ean": "4242005357833",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Large Appliances",
+    "Categorie_L3": "Other Built-In Appliances",
+    "name": "Bosch Series 6, Built-In Washing Machine, 8Kg, 1200 RPM, EcoSilence Drive, LED-Display, Allergy Plus Program, Touch Control Buttons, WIW24561GC",
+    "price": 4335,
+    "discount_price": 4335
+  },
+  {
+    "product_id": "1841562",
+    "product_ean": "8806092653771",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Large Appliances",
+    "Categorie_L3": "Outdoor Fan",
+    "name": "Samsung Airdresser Smart Wardrobe With Sanitize Care DF60A8500HG/SG Amber Brown",
+    "price": 5499,
+    "discount_price": 5389
+  },
+  {
+    "product_id": "8003437043598",
+    "product_ean": "8003437043598",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Large Appliances",
+    "Categorie_L3": "Built-In Freezer",
+    "name": "Whirlpool 209L Net Capacity Built-in Upright Freezer White AFB 1841F A+ EX",
+    "price": 4499,
+    "discount_price": 2909.95
+  },
+  {
+    "product_id": "2005294",
+    "product_ean": "5035048821749",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Small Appliances",
+    "Categorie_L3": "Food Preparation",
+    "name": "Black+Decker Air Fryer 1500W 4L AF4037-B5",
+    "price": 231.7,
+    "discount_price": 231.7
+  },
+  {
+    "product_id": "1532809",
+    "product_ean": "5035048692998",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Small Appliances",
+    "Categorie_L3": "Vacuum Cleaners & Steam Mops",
+    "name": "Black+Decker Dry Vacuum Cleaner VM1480-B5",
+    "price": 175,
+    "discount_price": 175
+  },
+  {
+    "product_id": "1891420",
+    "product_ean": "8801311654362",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Large Appliances",
+    "Categorie_L3": "Coolers, Heaters & Air Treatment",
+    "name": "LG Dual Cool Inverter Split Air Conditioner 1.5 Ton I23TCP.UUAE1 White",
+    "price": 2999,
+    "discount_price": 2999
+  },
+  {
+    "product_id": "1730353",
+    "product_ean": "3121040077047",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Small Appliances",
+    "Categorie_L3": "Irons & Steamers",
+    "name": "Tefal Easygliss Steam Iron 2400W FV5715M0 Blue",
+    "price": 205,
+    "discount_price": 205
+  },
+  {
+    "product_id": "1866734",
+    "product_ean": "6944271651278",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Small Appliances",
+    "Categorie_L3": "Microwave Ovens & Portable Hobs",
+    "name": "Toshiba Solo Microwave Oven 20L MM-EM20P White",
+    "price": 418,
+    "discount_price": 216.99
+  },
+  {
+    "product_id": "1774342",
+    "product_ean": "5035048742389",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Small Appliances",
+    "Categorie_L3": "Kettles & Coffee Machines",
+    "name": "Black+Decker Electric Kettle 2200W JC69-B5 Black",
+    "price": 69,
+    "discount_price": 69
+  },
+  {
+    "product_id": "1922966",
+    "product_ean": "5035048797136",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Small Appliances",
+    "Categorie_L3": "Toasters & Grills",
+    "name": "Black+Decker 3-In-1 Sandwich Grill And Waffle Maker TS2130-B5 Black",
+    "price": 109,
+    "discount_price": 109
+  },
+  {
+    "product_id": "1765085",
+    "product_ean": "7332543753802",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Small Appliances",
+    "Categorie_L3": "Sewing Machines",
+    "name": "Electrolux Air Purifier FA31-202GY",
+    "price": 495,
+    "discount_price": 495
+  },
+  {
+    "product_id": "689122015163",
+    "product_ean": "689122015163",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Small Appliances",
+    "Categorie_L3": "Accessories & Spare Parts",
+    "name": "Blueair Smart Filter For 7400 Series, Compatible With Healthprotect 7410I, 7440I, 7470I And 7475I, Black (Min 1 Year Manufacturer Warranty)",
+    "price": 349,
+    "discount_price": 349
+  },
+  {
+    "product_id": "1935455",
+    "product_ean": "8806094850710",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "TVs & Projectors",
+    "Categorie_L3": "TVs",
+    "name": "Samsung Smart TV, Crystal UHD, CU7000C, 65 Inch, Black, 2023, Crystal Processor 4K, Smart Hub, Object Tracking Sound Lite, UA65CU7000UXZN",
+    "price": 2299,
+    "discount_price": 1623.95
+  },
+  {
+    "product_id": "1792850",
+    "product_ean": "8806092097599",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "TVs & Projectors",
+    "Categorie_L3": "Projectors",
+    "name": "Samsung 130&quot; The Premiere LSP9T 4K Smart Triple Laser Projector",
+    "price": 23999,
+    "discount_price": 12898
+  },
+  {
+    "product_id": "1822641",
+    "product_ean": "6084011142564",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "TVs & Projectors",
+    "Categorie_L3": "TV Accessories",
+    "name": "MyChoice Wall Bracket 15 DG For 14-42inch TV Black",
+    "price": 55,
+    "discount_price": 55
+  },
+  {
+    "product_id": "1407948",
+    "product_ean": "8806084503428",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "TVs & Projectors",
+    "Categorie_L3": "DVD Player & Digital Receiver",
+    "name": "LG Bluray 4K UHD DVD Player UP970",
+    "price": 999,
+    "discount_price": 949
+  },
+  {
+    "product_id": "6971408157044",
+    "product_ean": "6971408157044",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "TVs & Projectors",
+    "Categorie_L3": "Receiver & Satellite Accessories",
+    "name": "Xiaomi TV Box S 2nd Gen, 2023 New Version, 4K, 60FPS, Bluetooth 5.2, Dolby Vision And HDR10+, Google TV, 2GB RAM+8GB Storage",
+    "price": 156.89,
+    "discount_price": 156.89
+  },
+  {
+    "product_id": "196068819118",
+    "product_ean": "196068819118",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Laptops, PCs",
+    "Categorie_L3": "Laptops",
+    "name": "HP 2022 15.6&quot; FHD Micro-Edge Laptop, AMD Ryzen 5 5500U 6-Core (Beat i7-1160G7, Up To 4GHz), 32GB RAM, 1TB PCIe SSD, AMD Radeon Graphics, WiFi, HDMI, Fast Charge, Windows 11, W/3In1 Accessories",
+    "price": 2499,
+    "discount_price": 1949
+  },
+  {
+    "product_id": "1797641",
+    "product_ean": "4549292165685",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Laptops, PCs",
+    "Categorie_L3": "Printers, Scanners & Fax Machines",
+    "name": "Canon Pixma Printer TS3440 Black",
+    "price": 199.99,
+    "discount_price": 161.99
+  },
+  {
+    "product_id": "1742473",
+    "product_ean": "194441597332",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Laptops, PCs",
+    "Categorie_L3": "Toners & Cartridges",
+    "name": "HP 305 BLACK Original Ink Cartridge 3YM61AE",
+    "price": 45,
+    "discount_price": 45
+  },
+  {
+    "product_id": "1787965",
+    "product_ean": "190151040298",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Laptops, PCs",
+    "Categorie_L3": "Accessories & Peripherals",
+    "name": "Lenovo 300 Wireless Mouse GX30K79401 Black",
+    "price": 30,
+    "discount_price": 30
+  },
+  {
+    "product_id": "5397184732557",
+    "product_ean": "5397184732557",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Laptops, PCs",
+    "Categorie_L3": "Desktop Computer",
+    "name": "Dell Vostro 3910 12th Generation Business Desktop, 16GB, DDR4 RAM, 1TB SSD, Intel Core i7-12700 Processor, WiFi 802.11ac, Bluetooth 5.0, DVD-RW, Windows-11 (Black), 2022 Newest",
+    "price": 2590,
+    "discount_price": 2590
+  },
+  {
+    "product_id": "5397184504994",
+    "product_ean": "5397184504994",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Laptops, PCs",
+    "Categorie_L3": "Monitors",
+    "name": "Dell 24&quot; Lcd U2422H Ultrasharp FHD IPS 16: 9 5Ms/250Cd/1000: 1/Dp/HDMI/USB-C Hub Monitor",
+    "price": 1489,
+    "discount_price": 1000
+  },
+  {
+    "product_id": "619659182557",
+    "product_ean": "619659182557",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Laptops, PCs",
+    "Categorie_L3": "Data Storage",
+    "name": "SanDisk 1TB Extreme Up to 1050MB/s - USB-C, USB 3.2 Gen 2 Portable External SSD - SDSSDE61-1T00-G25",
+    "price": 499.99,
+    "discount_price": 499.99
+  },
+  {
+    "product_id": "842776107305",
+    "product_ean": "842776107305",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Laptops, PCs",
+    "Categorie_L3": "Networking & Connectivity",
+    "name": "Google Nest Hub Chalk",
+    "price": 380,
+    "discount_price": 320
+  },
+  {
+    "product_id": "1487997",
+    "product_ean": "4711467383822",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Laptops, PCs",
+    "Categorie_L3": "Computer Cables & Adaptors",
+    "name": "First 1 USB 3.1 Type C To HDMI Adaptor Cable White",
+    "price": 99,
+    "discount_price": 99
+  },
+  {
+    "product_id": "1684336",
+    "product_ean": "5056244900304",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Laptops, PCs",
+    "Categorie_L3": "Software",
+    "name": "Kaspersky Total Security 2020 4 User",
+    "price": 119,
+    "discount_price": 119
+  },
+  {
+    "product_id": "6294004217395",
+    "product_ean": "6294004217395",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Laptops, PCs",
+    "Categorie_L3": "Laptop Bags & Sleeves",
+    "name": "Arctic Hunter 17 Inch Durable Polyester Backpack with Separate Laptop Compartment TSA Opening for Men and Women B00562 Black",
+    "price": 394,
+    "discount_price": 220
+  },
+  {
+    "product_id": "815820024071",
+    "product_ean": "815820024071",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Video Games & Consoles",
+    "Categorie_L3": "Consoles",
+    "name": "Meta Quest 3 Advanced All-In-One VR Headset, 512GB, White (International Version)",
+    "price": 3950,
+    "discount_price": 2416.94
+  },
+  {
+    "product_id": "2345234123412",
+    "product_ean": "2345234123412",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Video Games & Consoles",
+    "Categorie_L3": "Gaming Accessories & VR",
+    "name": "Sega Sonic Forces - Pal - Nintendo Switch - Action &amp; Shooter - Nintendo Switch",
+    "price": 102,
+    "discount_price": 102
+  },
+  {
+    "product_id": "4549642434300",
+    "product_ean": "4549642434300",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Video Games & Consoles",
+    "Categorie_L3": "Games",
+    "name": "Super Mario Maker 2 For Nintendo Switch",
+    "price": 182.5,
+    "discount_price": 182.5
+  },
+  {
+    "product_id": "1763052",
+    "product_ean": "4895229102309",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Home Cinema & Audio",
+    "Categorie_L3": "Small Audio",
+    "name": "Philips AZ318B Portable CD Soundmachine With FM Radio Black",
+    "price": 349,
+    "discount_price": 259
+  },
+  {
+    "product_id": "8806091823250",
+    "product_ean": "8806091823250",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Home Cinema & Audio",
+    "Categorie_L3": "Home Cinema Systems",
+    "name": "LG S75QR 5.1.2CH High Res Audio Sound Bar With Dolby Atmos And Surround Speakers",
+    "price": 2599,
+    "discount_price": 1800.89
+  },
+  {
+    "product_id": "1901632",
+    "product_ean": "6925281998041",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Home Cinema & Audio",
+    "Categorie_L3": "Speakers & Amplifiers",
+    "name": "JBL Partybox Encore Portable Speaker With Mic Black",
+    "price": 1399,
+    "discount_price": 1399
+  },
+  {
+    "product_id": "810037290042",
+    "product_ean": "810037290042",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Home Cinema & Audio",
+    "Categorie_L3": "Blu Ray & Media Streaming",
+    "name": "Google Chromecast With Google TV HD, Snow",
+    "price": 146,
+    "discount_price": 146
+  },
+  {
+    "product_id": "698813007110",
+    "product_ean": "698813007110",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Home Cinema & Audio",
+    "Categorie_L3": "Recording Devices",
+    "name": "Rode Wireless GO II 2-Person Compact Digital Wireless Microphone System/Recorder (2.4 GHz, Black)",
+    "price": 1299,
+    "discount_price": 945.99
+  },
+  {
+    "product_id": "4548736121287",
+    "product_ean": "4548736121287",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Home Cinema & Audio",
+    "Categorie_L3": "Audio Cables & Accessories",
+    "name": "Sony Icd-Tx660 Lightweight And Ultra-Thin Digital Voice Recorder With Recording And 16Gb Built-In Memory, Sonyicdtx660",
+    "price": 699,
+    "discount_price": 414.81
+  },
+  {
+    "product_id": "2140611",
+    "product_ean": "8809135869436",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Home Cinema & Audio",
+    "Categorie_L3": "Karaoke",
+    "name": "Magic Star NanoBeatz Mini Karaoke Machine With Dual Wireless Microphones BB220 White",
+    "price": 249,
+    "discount_price": 249
+  },
+  {
+    "product_id": "1751484",
+    "product_ean": "884938449199",
+    "Categorie_L1": "Car Radio",
+    "Categorie_L2": null,
+    "Categorie_L3": null,
+    "name": "Pioneer 2Din  Bt Apple Dmh-Z5350Bt",
+    "price": 1999,
+    "discount_price": 1585.29
+  },
+  {
+    "product_id": "1976549",
+    "product_ean": "3616474434769",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Batteries & Power",
+    "Categorie_L3": "Batteries",
+    "name": "Carrefour i-Tech Alkaline Batteries AAA 20 PCS",
+    "price": 20.5,
+    "discount_price": 20.5
+  },
+  {
+    "product_id": "1865109",
+    "product_ean": "4895229120105",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Batteries & Power",
+    "Categorie_L3": "Extension Leads & Cables",
+    "name": "Philips Power Multiplier 4-Way Extension Socket NB-0003 White 2m",
+    "price": 79,
+    "discount_price": 45
+  },
+  {
+    "product_id": "1098551433063",
+    "product_ean": "1098551433063",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Batteries & Power",
+    "Categorie_L3": "Power Adaptors & Sockets",
+    "name": "STARGOLD Multiple cord Extension Set Overload Protector Electric Charging Lead 3 Way Ac Output with 1 USB and 1 USB-C Port Anti-Fire 750\u2070C, 13A 5M Long Power Cable Heavy Duty Charging Station- White",
+    "price": 150,
+    "discount_price": 60
+  },
+  {
+    "product_id": "1845469",
+    "product_ean": "8714574661551",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Cameras & Camcorders",
+    "Categorie_L3": "Digital Cameras",
+    "name": "Canon EOS 250D SLR Camera With EF-S 18-55mm And EF 75-300mm Lens Black",
+    "price": 3531,
+    "discount_price": 3531
+  },
+  {
+    "product_id": "6970357853922",
+    "product_ean": "6970357853922",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Cameras & Camcorders",
+    "Categorie_L3": "Action & Instant Cameras",
+    "name": "Insta360 X3 360 Degree Action Camera",
+    "price": 1699,
+    "discount_price": 1699
+  },
+  {
+    "product_id": "6970885350177",
+    "product_ean": "6970885350177",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Cameras & Camcorders",
+    "Categorie_L3": "Cameras Accessories",
+    "name": "Wanbo Portable Projector T6 MAX 1080P, 5G Wifi, 4k Portable Home Theater Video, Mini Projector, Perfect for Indoor Movie at Home, Office Presentation,&hellip;",
+    "price": 1525,
+    "discount_price": 1089
+  },
+  {
+    "product_id": "1234054071065",
+    "product_ean": "1234054071065",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Cameras & Camcorders",
+    "Categorie_L3": "Tripods",
+    "name": "Coopic S06 2.8X3.2m Photo Video Studio Background Stands Adjustable Photography Video Muslin Backdrop Support System Stands Set With Case",
+    "price": 209.99,
+    "discount_price": 209.99
+  },
+  {
+    "product_id": "1234574071018",
+    "product_ean": "1234574071018",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Cameras & Camcorders",
+    "Categorie_L3": "Cameras Lenses, Filters & Flashes",
+    "name": "Coopic Jdd E27 220-240V 150W Studio Photography Flash Bulb Modeling LED Strobe Lamp",
+    "price": 26.99,
+    "discount_price": 26.99
+  },
+  {
+    "product_id": "791592387562",
+    "product_ean": "791592387562",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Cameras & Camcorders",
+    "Categorie_L3": "Camcorders",
+    "name": "Xiaomi-Mi MJSXJ02HL Home Security Camera Standard Version 1080P IP65 Waterproof IP Camera Night Vision",
+    "price": 299,
+    "discount_price": 153.85
+  },
+  {
+    "product_id": "757530483277",
+    "product_ean": "757530483277",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Cameras & Camcorders",
+    "Categorie_L3": "Carry Cases & Bags",
+    "name": "COOPIC BL-26 BLACK Messenger CANVAS DSLR Camera Bag Urban Life Shoulder Case for Nikon Sony Canon Olympus Pentex Interchangeable Mirrorless Micro 4/3 Full Frame Lens Digital SLR",
+    "price": 59.99,
+    "discount_price": 55
+  },
+  {
+    "product_id": "947273702009",
+    "product_ean": "947273702009",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Home Phones",
+    "Categorie_L3": "Cordless Phones",
+    "name": "Grandstream Dp720 Dect Cordless Voip Telephone",
+    "price": 350,
+    "discount_price": 249.8
+  },
+  {
+    "product_id": "1946703",
+    "product_ean": "8887549691935",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Home Phones",
+    "Categorie_L3": "Corded Phones",
+    "name": "Panasonic KX-TG6712UE1 DECT Cordless Phone",
+    "price": 399,
+    "discount_price": 255.69
+  },
+  {
+    "product_id": "6941565969002",
+    "product_ean": "6941565969002",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Gadgets",
+    "Categorie_L3": "Drones",
+    "name": "DJI Mini 4 Pro Fly More Combo Plus",
+    "price": 4999,
+    "discount_price": 4599
+  },
+  {
+    "product_id": "761342113659",
+    "product_ean": "761342113659",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Gadgets",
+    "Categorie_L3": "Binoculars",
+    "name": "Telescope Camera Lens For Mobile Phones With Stand",
+    "price": 77,
+    "discount_price": 77
+  },
+  {
+    "product_id": "1308709",
+    "product_ean": "885370750041",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Digital Cards",
+    "Categorie_L3": "Microsoft Office Digital",
+    "name": "Microsoft Office 365 Personal Single User",
+    "price": 299,
+    "discount_price": 299
+  },
+  {
+    "product_id": "653341917416",
+    "product_ean": "653341917416",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Digital Cards",
+    "Categorie_L3": "Kaspersky",
+    "name": "Kaspersky Anti-Virus 2020 - 2 Device",
+    "price": 99.9,
+    "discount_price": 99.9
+  },
+  {
+    "product_id": "8901736014311",
+    "product_ean": "8901736014311",
+    "Categorie_L1": "Electronics & Appliances",
+    "Categorie_L2": "Digital Cards",
+    "Categorie_L3": "Netflix",
+    "name": "Epic Movie [DVD] [2007]",
+    "price": 59,
+    "discount_price": 59
+  }
+]
