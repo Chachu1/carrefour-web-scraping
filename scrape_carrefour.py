@@ -17,7 +17,6 @@ def scrape_carrefour():
         url='https://www.carrefouruae.com/mafuae/en/frozen-food/c/F6000000?pg=%s' % (page,)     #-- set url 
         response = requests.get(url)                            #-- request connection to url
         soup = BeautifulSoup(response.text, 'html.parser')      #-- get data and parse 
-
         anchors=soup.find_all('a', class_='js-gtmProdData')
         if(len(anchors)>0):
             print('scraping data from %s"' % (url,))
@@ -25,10 +24,10 @@ def scrape_carrefour():
                 item=a['data-gtm-prod-data']    #-- get json string from the anchor attribute name 'data-gtm-prod-data'
                 jsonitem=json.loads(item)       #-- convert string to json object
                 jsondata.append(jsonitem)       #-- append item to json
-
             with open('carrefour.json', 'w') as outfile:
                 json.dump(jsondata, outfile)    #-- save jsondata to 'carrefour.json' file
         else:
+            #print("nothing to scrape")
             return      #-- exit loop since nothing to scrape
 
 scrape_carrefour()      #-- call scraping function 
