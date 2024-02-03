@@ -121,23 +121,25 @@ for category_info in result_categories:
     data = process_product_data(url, global_headers)
     data_for_csv.extend(data)
 
-# csv_file_path = f'carrefour_UAE_{current_date}.csv'
 json_file_path = f'carrefour_UAE_{current_date}.json'
-# Writing data to the CSV file
-# with open(csv_file_path, 'w', newline='', encoding='utf-8') as csv_file:
-#     # Define the CSV writer
-#     csv_writer = csv.DictWriter(csv_file, fieldnames=data[0].keys())
-
-#     # Write the header
-#     csv_writer.writeheader()
-
-#     # Write the data
-#     csv_writer.writerows(data_for_csv)
-
-# print(f'Data has been exported to {csv_file_path}')
 
 with open(json_file_path, 'w', encoding='utf-8') as json_file:
     # Dump data to JSON file
     json.dump(data_for_csv, json_file, indent=2)
 
 print(f'Data has been exported to {json_file_path}')
+
+csv_file_path = f'carrefour_UAE_{current_date}.csv'
+
+# Writing data to the CSV file
+with open(csv_file_path, 'w', newline='', encoding='utf-8') as csv_file:
+    # Define the CSV writer
+    csv_writer = csv.DictWriter(csv_file, fieldnames=data[0].keys())
+
+    # Write the header
+    csv_writer.writeheader()
+
+    # Write the data
+    csv_writer.writerows(data_for_csv)
+
+print(f'Data has been exported to {csv_file_path}')
